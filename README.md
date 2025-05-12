@@ -53,9 +53,6 @@ I’m always learning, but let’s be honest... I can be a little lazy too (debu
       <img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-murtaazaa&langs_count=12&count_private=true&layout=compact&theme=react&hide=jupyter%20notebook&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
     </a>
 
-  <a href="http://www.github.com/muhammad-murtaazaa">
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-murtaazaa&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width="100%"/>
-    </a>
   </div>
 </details>
 
