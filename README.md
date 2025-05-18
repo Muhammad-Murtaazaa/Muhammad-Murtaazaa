@@ -23,7 +23,7 @@ I’m always learning, but let’s be honest... I can be a little lazy too (debu
       <h2>My Programming Languages, Tools, Frameworks, OS</h2>
      <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,py,git,github,visualstudio,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,tailwind,py,mysql,git,github,visualstudio,vscode,webstorm,windows" />
   </a>
 </p>
 </div>
